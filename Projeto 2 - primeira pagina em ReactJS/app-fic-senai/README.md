@@ -16,5 +16,8 @@ Para rodar o programa no seu desktop você vai precisar ter o React e o yarn ins
 
 abra a pasta "app-fic-senai" no CMD e execute o comando:
 yarn start
-Após alguns instantes uma página web irá se abrir
+Após alguns instantes uma página web como está irá se abrir
+![](./screenshots/print1.png)
+![](./screenshots/print2.png)
+
 
