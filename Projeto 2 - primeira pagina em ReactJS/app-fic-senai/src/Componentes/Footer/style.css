@@ -1,0 +1,9 @@
+footer{
+    width: 1440px auto;
+    height: 100px;
+    background-color: #2884B2;
+    color: rgba(0, 0, 0, 0.7);
+    bottom: 0px;
+    position: relative;
+    text-align: center;
+}

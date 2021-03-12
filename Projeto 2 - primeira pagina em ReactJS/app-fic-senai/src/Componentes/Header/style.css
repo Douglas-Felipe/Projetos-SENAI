@@ -1,0 +1,16 @@
+header {
+    width: 1440px auto;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 1px solid #2884B2;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20pt;
+}
+img{
+    width: 170px;
+    height:43px;
+    margin: 15px;
+}
